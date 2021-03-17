@@ -3,7 +3,7 @@
 # Description
 A landing page is a great way to grow your business. This template can be customized to meet client requests/needs. 
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-landing-page/)**
+**[View Live Preview](https://brianneewell1.github.io/landingPage/)**
 
 ## Templates
 
